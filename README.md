@@ -8,4 +8,4 @@ Made by @idanc7596 and me.
 # Preview
 [![Save the King](https://i.ibb.co/ZxBmwqb/image.png)](https://youtu.be/QK-_ee6kkMw) <br><br>
 # Levels editor
-https://github.com/ranelbe/level-Editor
+https://github.com/ranelbe/Levels-Editor
