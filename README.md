@@ -6,4 +6,6 @@ The game is written in C++ using the SFML library.
 Made by @idanc7596 and me.
 <br>
 # Preview
-[![Save the King](https://i.ibb.co/ZxBmwqb/image.png)](https://youtu.be/QK-_ee6kkMw)
+[![Save the King](https://i.ibb.co/ZxBmwqb/image.png)](https://youtu.be/QK-_ee6kkMw) <br><br>
+# Levels editor
+https://github.com/ranelbe/level-Editor
