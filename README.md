@@ -7,5 +7,5 @@ Made by @idanc7596 and me.
 <br>
 # Preview
 [![Save the King](https://i.ibb.co/ZxBmwqb/image.png)](https://youtu.be/QK-_ee6kkMw) <br><br>
-# Levels editor
+# Levels Editor
 https://github.com/ranelbe/Levels-Editor
