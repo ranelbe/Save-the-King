@@ -1,6 +1,7 @@
 # Save the King
-Fun adventure game. <br>
-The game was built as part of an object-oriented programming course. <br>
+Adventure game in which the goal is to help the king return to his throne. <br>
+All of other characters - the mage, the warrior and the thief - have to use their special abilities in order to help the king reach to his throne! <br>
+Strong emphasis on implementing object oriented design principles. <br>
 The game is written in C++ using the SFML library.
 <br>
 Made by @idanc7596 and me.
